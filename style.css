@@ -5,8 +5,10 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 50p;
 }
+
+/*style header*/
 
 .famous-show {
     color: wheat;
