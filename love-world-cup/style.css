@@ -1,0 +1,108 @@
+body {
+    font-family: 'Monsieur La Doulaise', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.famous-show {
+    color: wheat;
+    padding-bottom: 50px;
+
+
+}
+
+.section-one {
+    display: flex;
+    background-color: black;
+    padding-left: 50px;
+    padding-top: 50px;
+    border-radius: 10px;
+    margin-bottom: 10%;
+    margin-right: 15%;
+    margin-left: 20%;
+}
+
+.watch-now {
+    color: bisque;
+    background-color: crimson;
+    border: 2px solid crimson;
+    margin-right: 80%;
+    border-radius: 2px;
+}
+
+
+
+
+
+.new-match {
+    background-color: bisque;
+
+    border-radius: 5px;
+}
+
+.old-match {
+    background-color: bisque;
+
+
+    border-radius: 5px;
+}
+
+.previous-match {
+    color: bisque;
+    background-color: coral;
+
+
+    border-radius: 5px;
+
+}
+
+.section-two {
+    background-color: black;
+    text-align: center;
+    margin-right: 15%;
+    margin-bottom: 25%;
+    border-radius: 5px;
+}
+
+.transfer-now {
+    border: 2px solid grey;
+    margin-right: 80%;
+    border-radious: 2px;
+
+}
+
+
+
+.fa-solid fa-clock-eight {
+    color: black;
+}
+
+.section-three {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+#main-thing {
+    display: flex;
+}
+
+#last-part {
+    color: bisque;
+    background-color: black;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.flex-card {
+    display: flex;
+    padding-left: 15%;
+}
+
+.contact-us {
+    margin-left: 5%;
+}
